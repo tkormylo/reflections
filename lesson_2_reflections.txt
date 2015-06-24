@@ -5,3 +5,13 @@ What happens when you initialize a repository? Why do you need to do it?
 
 		You need to do this because otherise you have no way to version control your
 		work in that repository.
+
+How is the staging area different from the working directory and the repository? What
+value do you think it offers?
+
+		The staging area is different from the working directory and the repository because
+		it is where files that will be commited in the next commit are added. This allows you to
+		control which files in a working directroy are part of the respository and which are not.
+
+		This can be of value when you have other files in the working directory that you do not
+		need to have version control for.
