@@ -15,3 +15,9 @@ value do you think it offers?
 
 		This can be of value when you have other files in the working directory that you do not
 		need to have version control for.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+		I would use the staging area to compare a version of a file against the last commit to ensure
+		that there is only the change I expect present. This would help keep the changes to just
+		one logical change?
