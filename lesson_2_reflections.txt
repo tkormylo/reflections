@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+		When you initialize a repository git will then begin to track changes in
+		that location. You can commit files and compare them as needed.
+
+		You need to do this because otherise you have no way to version control your
+		work in that repository.

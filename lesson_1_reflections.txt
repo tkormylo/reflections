@@ -1,0 +1,57 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Personally, I did not find the diff command very useful. Yes, it shows where the
+    differences are, and that's great. However, looking for a typo or other small change
+    using this method is very cumbersome and time consuming. I assume we will learn of
+    more efficient ways in the future and I look forward to those lessons. For now, I will
+    stick with Notepad++ for now to locate the differences as it is much easier to read.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Lucky for me, I already have experience working with version control software
+    in my career now. There actually have been instances where I needed to revert to
+    a previous version of a project or file and it saved my bacon.
+
+    Moving forward, I suspect that version control will allow me to experiment
+    more without the fear of ruining a project if I cannot remember all the changes made.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros of manually choosing to save is that you are not in the middle of a logic
+    change when the save occurs. Or, the save does not occur while you are in an unstable state
+    or files may have corrupted.
+
+    The cons is naturally, if you forget to save or choose not to, you run the risk of a workstation
+    failure, lock up, etc. In this case you may have lost a JUST written critical piece of code, and
+    you may not be able to remember how you created your logic right away.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because Git understands that saving multiple files is often required when working on
+    multiple file projects?
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The command "git log" is helpful because it will show the commit history of a respository.
+    You can view the user comments to understand what was changed and the date and time of the
+    commit along with other helpful information.
+
+    The "get diff" command has become more useful the more I use it. I can pretty easily see
+    what changes were made between to commits and this is quite handy if a mistake was made, or you
+    have no idea why a previoulsy working commit now no longer works.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using version control provides a saftey net that you can fall back on in the event
+    you make a change that breaks your code or introduces a new bug. Pretty handy.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to use get to version control my future Udacity projects. Also, maybe add my existing
+    profile project 1 to a repository?
