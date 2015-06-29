@@ -21,3 +21,23 @@ How can you use the staging area to make sure you have one commit per logical ch
 		I would use the staging area to compare a version of a file against the last commit to ensure
 		that there is only the change I expect present. This would help keep the changes to just
 		one logical change?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+		As the course explained, branches can be very helpful if you want to make an experiemental change,
+		a language change, or other. Branches can help in this regard by keeping the master protected from an experimental change and allowing you to later merge the changes if needed.
+
+How do the diagrams help you vizualize the branch structure?
+
+		I find them helpful as I am used to GUI interfaces and visual aids when working
+		on developent projects. Using Git is different in that its text based and that
+		presents a new challenge for me.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+		The result for me merging the "Coins" branch into the "Master" branch is not the same as the video. I fear there was a mistake somewhere along the way as the "coins" in the game appaear to be missing. In the interest of time, I cannot go back through all the exercises again. I need to move forward.
+		The diagram representation is actually quite helpful to visualize the branches and the commits belonging to each parent of each branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+		Automatic merging is nice because you do not have to manually address every single change. However, doing it manually allows you more control, while it may be more time consuming and annoying.
